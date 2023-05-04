@@ -1,4 +1,4 @@
-package com.microservices.springbootservicioitem.models.service;
+package com.microservices.springbootservicioitem.service;
 
 import com.microservices.springbootservicioitem.models.Item;
 
